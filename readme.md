@@ -13,7 +13,12 @@ https://timestamp-yuchiu.herokuapp.com/timestamp/december%2020,%202017
 https://timestamp-yuchiu.herokuapp.com/timestamp/1513728000
 
 #### Example output:
-{ "unix": 1513728000, "natural": "December 20, 2017" }
+```
+    {
+        "unix": 1513728000,
+        "natural": "December 20, 2017"
+    }
+```
 
 *****************************************************
 
